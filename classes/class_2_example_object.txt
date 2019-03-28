@@ -1,0 +1,11 @@
+Object: Booth
+
+
+5
+20
+"booth"
+
+
+20-5=15
+false
+false
