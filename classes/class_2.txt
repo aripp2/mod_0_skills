@@ -1,0 +1,11 @@
+Class: Tables
+
+Attributes:
+  tables_being_used (integer)
+  total_tables (integer)
+  table_type (string)
+
+Methods:
+  available_tables (total_tables - tables_being_used)
+  is_restaurant_full (true if available_tables = total_tables)
+  table_has_chairs (false if table_type = booth)
