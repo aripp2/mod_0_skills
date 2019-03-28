@@ -1,0 +1,11 @@
+Object: wine glass
+
+
+9
+6
+false
+
+
+9-6=3
+false
+false
