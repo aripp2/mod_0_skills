@@ -1,0 +1,11 @@
+Class: Cups
+
+Attributes:
+  capacity (integer)
+  current_volume (integer)
+  for_hot_beverages (boolean)
+
+Methods:
+  refill_amount (capacity-current_volume)
+  can_add_coffee (if for_hot_beverages is true)
+  is_full (if capacity=current_volume)
