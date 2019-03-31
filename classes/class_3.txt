@@ -1,0 +1,14 @@
+Class: Pizza
+
+Attributes:
+  sauce (string)
+  toppings (array)
+  number_of_slices (integer)
+  number_of_slices_eaten (integer)
+  is_gluten-free (boolean)
+
+Methods:
+    calculate_percent_eaten (takes number_of_slices_eaten and divides that by number_of_slices then multiplies by 100)
+    alphabetize_toppings (takes toppings array and sorts alphabetically)
+    add_topping (adds topping to topping array)
+    list_on_gluten-free_menu (yes if is_gluten-free = true)
