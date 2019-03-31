@@ -1,0 +1,14 @@
+Object:
+
+
+"bbq sauce"
+["chicken", "bacon", "onion", "jalapeño"]
+8
+4
+true
+
+
+4/8 x 100 = 50
+["bacon", "chicken", "jalapeño", "onion"]
+["bacon", "chicken", "jalapeño", "onion", "pineapple"]
+yes
