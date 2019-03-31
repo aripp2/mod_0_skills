@@ -1,4 +1,4 @@
-Object:
+Object: BBQ Chicken Pizza
 
 
 "bbq sauce"
@@ -11,4 +11,4 @@ true
 4/8 x 100 = 50
 ["bacon", "chicken", "jalapeño", "onion"]
 ["bacon", "chicken", "jalapeño", "onion", "pineapple"]
-yes
+yes or true
