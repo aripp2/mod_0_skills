@@ -1,0 +1,40 @@
+Applying for a job
+
+-Submit Application
+  -create resume
+    -list personal info
+      -name
+      -address
+      -email
+      -phone number
+    -list education
+      -collage
+      -high school
+    -list experience
+      -previous jobs
+      -volunteer work
+    -list references
+  -update profiles
+    -Linked in
+    -Facebook
+    -GitHub
+-Prepare for Interview
+  -research company
+    -read history
+      -google search
+    -read reviews
+      -employee reviews
+      -customer reviews
+  -plan day
+    -plan outfit
+      -pick shoes
+      -pick top
+      -pick bottom
+      -pick accessories
+    -plan route
+      -map location
+        -open google maps
+      -choose transportation
+  -practice
+    -study resume
+    -think of possible questions
